@@ -12,9 +12,6 @@ https://drive.google.com/file/d/1G8CVV5JZ-a3hbrhjboBNN9XEOUwPq1QW/view?usp=share
 https://drive.google.com/file/d/1gC7T5MNUq8Ut_-HSXEi6wxVi_B5UxP_e/view?usp=sharing
 
 
-
-https://github.com/user-attachments/assets/f86d1c38-81bb-4a11-b329-4b3c0163c3d7
-
 📖 Project Description
 Smart Stove Monitor is a real-time safety system that uses computer vision and GPS tracking to prevent gas stove accidents. A laptop camera continuously watches the stove. When a flame is detected AND your phone moves more than 5 meters from home, an instant alert is sent to your phone with vibration and sound. It also alerts you if no one is detected near the stove for more than 10 minutes — protecting elderly users and anyone who forgets the stove is on.
 
@@ -166,5 +163,5 @@ This project is licensed under the MIT License — see LICENSE for details.
 Claude (Anthropic) — Used for debugging Python Flask code, designing the HTML dashboard, generating the architecture flowchart, and creating project documentation.
 Prompts documented in https://drive.google.com/drive/folders/1ITt26vbtWmPOIaIzqhXa2X05YfCGnD3i?usp=sharing
 
-Made with ❤️ at TinkerHub Hackathon 2026
+Made with ❤️ at Tink-Her-Hack4.0 Hackathon 2026
 
