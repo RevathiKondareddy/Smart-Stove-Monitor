@@ -11,7 +11,8 @@ https://drive.google.com/file/d/1G8CVV5JZ-a3hbrhjboBNN9XEOUwPq1QW/view?usp=share
 ▶ Watch Demo Video
 https://drive.google.com/file/d/1gC7T5MNUq8Ut_-HSXEi6wxVi_B5UxP_e/view?usp=sharing
 
-
+A demo of the code, doing the flame detection  giving an alarm can be found in Stove.ipynb.
+As a next step of trying to connect to the phone using cludflare is done in stove_gui.py is  also coded and presented. 
 📖 Project Description
 Smart Stove Monitor is a real-time safety system that uses computer vision and GPS tracking to prevent gas stove accidents. A laptop camera continuously watches the stove. When a flame is detected AND your phone moves more than 5 meters from home, an instant alert is sent to your phone with vibration and sound. It also alerts you if no one is detected near the stove for more than 10 minutes — protecting elderly users and anyone who forgets the stove is on.
 
